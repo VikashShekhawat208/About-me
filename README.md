@@ -2,10 +2,10 @@
 Hi 👋 My name is Vikash Shekhawat
 =================================
 
-Full Stack Developer using python and django
+Full Stack .net Developer 
 --------------------------------------------
 
-My professional area of expertise is Web development. I have been developing web application using Python, Django and Frontend programming languages. I'm involved in all phases of the programming cycle, from planning to designing to testing to deployment. Each day is different for me; I may analyze algorithms, modify code, fix bugs, come up with ideas, or introduce new systems. I enjoy working with people from different disciplines when I program. As someone who loves to build new relationships and is very involved in the Web development lifecycle, it is rewarding to be able to spend time with other professionals who are striving toward the same goal. In my current course of study, I'm studying Full Stack Development with Python and Django Framework Skills: Python, Django, MongoDB, HTML, CSS, JavaScript, AWS, Azure, data structures, one text editors, coding, SQL, Visual Studio Code, Adobe Photoshop,
+My professional area of expertise is Web development. I have been developing web application using C#, Asp .net and Frontend programming languages. I'm involved in all phases of the programming cycle, from planning to designing to testing to deployment. Each day is different for me; I may analyze algorithms, modify code, fix bugs, come up with ideas, or introduce new systems. I enjoy working with people from different disciplines when I program. As someone who loves to build new relationships and is very involved in the Web development lifecycle, it is rewarding to be able to spend time with other professionals who are striving toward the same goal. In my current course of study, I'm studying Full Stack Development with C# and Asp .Net Framework Skills: C#, Asp .net, Sql database, HTML, CSS, Azure, data structures, one text editors, coding, SQL, Visual Studio Code, Adobe Photoshop,
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [Vikashshekhawat208@gmail.com](mailto:Vikashshekhawat208@gmail.com)
@@ -20,16 +20,10 @@ src="https://img.shields.io/github/followers/VikashShekhawat208?logo=github&styl
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
